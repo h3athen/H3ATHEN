@@ -1,11 +1,8 @@
 # Hi kind people thankyou for checking me out 👋
 
+Here is a quick intro on myself:
 
-**xohan30/xohan30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here is a quick intro of myself:
-
-- 👾 I'm a computer science student (1st year)
+- 👾 I'm a 1st year computer science student (B.Tech cyber security)
 - 🔭 I’m currently working on a Mobile app
 - 🌱 I’m currently learning Flutter & Dart
 - 💬 Ask me about anything
