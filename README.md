@@ -1,3 +1,5 @@
+<img src="https://github.com/xohan30/xohan30/blob/master/dance.gif?raw=true" width="200"/>
+
 # Hi kind people thankyou for checking me out 👋
 
 ## Here is a quick intro on myself:
