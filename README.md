@@ -2,7 +2,7 @@
 <img src="https://github.com/xohan30/xohan30/blob/master/dance.gif?raw=true" text-align=center; width="300"/>
 </p>
 
-# Hi kind people thankyou for checking me out 👋
+# Hi kind people thankyou for checking me out <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32"/>
 
 ## Here is a quick intro on myself:
 
