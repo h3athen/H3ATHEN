@@ -1,6 +1,6 @@
 # Hi kind people thankyou for checking me out 👋
 
-Here is a quick intro on myself:
+##Here is a quick intro on myself:
 ```markdown
  - 👾 I'm a 1st year computer engineering student (B.Tech cyber security)
  - 🔭 I’m currently working on a Mobile app
