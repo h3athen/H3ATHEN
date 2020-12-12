@@ -11,7 +11,7 @@
 ### - 🔭 I’m currently working on a Mobile app
 ### - 🌱 I’m currently learning Flutter & Dart
 ### - 💬 Ask me about anything
-### - 📫 How to reach me: x0h4n30 (insta & twitter)
+### - 📫 How to reach me: x0h4n30 (twitter)
 ### - 😄 Pronouns: he/him 
 ### - 🔰 Honorifics: kunくん
 ### - ⚡ Fun fact: I love watching anime and reading memes so do send me some
