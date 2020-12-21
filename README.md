@@ -4,6 +4,8 @@
 
 # Hey kind person thankyou for checking me out <img src="https://media.giphy.com/media/EAfeMhhZjJ9zhXh69P/giphy.gif" height="55"/>
 
-## I'm a freshmen engineering student (CS) specializing in Cyber Security and an Infosec enthusiast
+## 🚌 I'm a freshmen engineering student (CS) specializing in Cyber Security 
 ### My field of interests are 
+* Information Security
+* Web app development
 
