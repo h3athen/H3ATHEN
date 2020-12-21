@@ -10,7 +10,8 @@
 🏮 Information Security
 🏮 Web app development
 🏮 Machine Learning
-> 
+🏮 IOT
+> I like working with new things and build projects with it. 
 > Fufu, I also enjoy watching anime and reading mangas. So if you are a weeb like me then HMU on the following handles <br>
 <p align="center">
 <a href="https://twitter.com/x0h4n30"><img src="https://img.icons8.com/doodle/50/000000/twitter-circled.png"/></a>
