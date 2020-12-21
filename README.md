@@ -12,7 +12,7 @@
 🏮 Machine Learning
 🏮 IOT
 ```py
- Its okay to dream big. Even I big dream and I am working in steps to accomplish that dream of mine 
+ Its okay to dream big. Even I have a big dream and I am working in steps to accomplish that dream of mine 
  Coz Linus Torvalds once quoted : "Start Small And Think About The Details" and i think that at first
  it better to work with small things and be perfect at it than with work on bigger things and be nothing. 
  And later if we merge all those small things in a bigger cluster then we can frame 
