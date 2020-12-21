@@ -11,7 +11,9 @@
 🏮 Web app development
 🏮 Machine Learning
 🏮 IOT
-> I like working with new things and build projects with it. 
+> Its okay to dream big. I also have a big dream and i am working in step steps to accomplish that dream of mine <br>
+>> Coz Linus Torvalds once quoted : Start Small And Think About The Details <br>
+
 > Fufu, I also enjoy watching anime and reading mangas. So if you are a weeb like me then HMU on the following handles <br>
 <p align="center">
 <a href="https://twitter.com/x0h4n30"><img src="https://img.icons8.com/doodle/50/000000/twitter-circled.png"/></a>
