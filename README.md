@@ -13,9 +13,11 @@
 🏮 IOT
 ```py
  Its okay to dream big. I also have a big dream and i am working in steps to accomplish that dream of mine 
- Coz Linus Torvalds once quoted : "Start Small And Think About The Details" and i think that it better to work on small things
- and be perfect at it than to work on bigger things and be nothing. And later if we merge all those small things in a bigger cluster 
- then we can frame our dream even in a bigger picture.
+ Coz Linus Torvalds once quoted : "Start Small And Think About The Details" and i think that it better 
+ to work on small things and be perfect at it than to work on bigger things and be nothing. 
+ And later if we merge all those small things in a bigger cluster then we can frame 
+ our dream even in a bigger picture.
+ 
  Fufu, I also enjoy watching anime and reading mangas. So if you are a weeb like me then HMU on the handles down below
 ```
 <p align="center">
