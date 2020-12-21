@@ -6,7 +6,7 @@
 <br>
 
 ## 🚌 I'm a freshmen engineering student (CS) specializing in Cyber Security 
-### My field of interests are 🔦
+### -> My field of interests are 🔦
 🏮 Information Security
 🏮 Web app development
 🏮 Machine Learning
