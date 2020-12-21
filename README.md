@@ -3,7 +3,7 @@
 </p>
 
 # Hey kind person thankyou for checking me out <img src="https://media.giphy.com/media/EAfeMhhZjJ9zhXh69P/giphy.gif" height="60"/>
-
+<br>
 ## 🚌 I'm a freshmen engineering student (CS) specializing in Cyber Security 
 ### My field of interests are 🔦
 🏮 Information Security
