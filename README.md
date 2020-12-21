@@ -18,7 +18,8 @@
  And later if we merge all those small things in a bigger cluster then we can frame 
  our dream even in a bigger picture.
  
- Fufu, I also enjoy watching anime and reading mangas. So if you are a tech weeb like me then HMU on the handles down below
+ Fufu, I also enjoy watching anime and reading mangas. So if you are a tech weeb like me then HMU 
+ on the handles down below
 ```
 <p align="center">
 <a href="https://twitter.com/x0h4n30"><img src="https://img.icons8.com/doodle/50/000000/twitter-circled.png"/></a>
