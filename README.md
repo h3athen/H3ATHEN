@@ -7,7 +7,7 @@
 </p>
 
 # Hey kind person thankyou for checking me out <img src="https://media.giphy.com/media/EAfeMhhZjJ9zhXh69P/giphy.gif" height="55"/>
-<p style="font-family: 'Langar', cursive;">Who Am I</p>
+<p font-family: 'Langar', cursive;>Who Am I</p>
 ## 🚌 I'm a freshmen engineering student (CS) specializing in Cyber Security 
 ### My field of interests are 🔦
 🏮 Information Security
