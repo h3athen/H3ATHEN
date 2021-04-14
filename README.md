@@ -9,7 +9,7 @@
 ## 🚩 Member of HugsForBugs CTF Team
 ### ~> My field of interests are 🔦
 🏮 Information Security
-🏮 Web app development
+🏮 Application development
 🏮 Machine Learning
 🏮 IOT
 ```py
