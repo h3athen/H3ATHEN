@@ -29,9 +29,9 @@
 <a href="mailto:xohan30@protonmail.com"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
 </p>
 
-# HugsForBugs CTF Team 
+# HugsForBugs CTF Team [Visit Site](https://hugsforbugz.github.io/)
 <p align="center">
 <img src="https://github.com/xohan30/xohan30/blob/master/h4b.png?raw=true" text-align=center; width="600"; height="600"/>
 </p>
  
-### BUY ME A COFFEE TO SUPPORT ME BY CLICKING THIS BUTTON <br> <a href="https://www.buymeacoffee.com/xohan30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>  
+### You can support me by buying a coffee <br> <a href="https://www.buymeacoffee.com/xohan30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>  
