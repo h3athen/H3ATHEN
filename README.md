@@ -30,6 +30,7 @@
 </p>
  
  <p align="center">
+ # HugsForBugs CTF Team
 <img src="https://github.com/xohan30/xohan30/blob/master/h4b.png?raw=true" text-align=center; width="600"; height="600"/>
 </p>
  
