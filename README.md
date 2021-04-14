@@ -5,7 +5,8 @@
 # Hey kind person welcome to my hub <img src="https://media.giphy.com/media/EAfeMhhZjJ9zhXh69P/giphy.gif" height="60"/>
 <br>
 
-## 🚌 I'm a freshmen engineering student (CS) specializing in Cyber Security
+## 🚌 I'm a CS engineering student 
+## 🚩 Member of HugsForBugs CTF Team
 ### ~> My field of interests are 🔦
 🏮 Information Security
 🏮 Web app development
