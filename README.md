@@ -28,9 +28,9 @@
 <a href="https://www.linkedin.com/in/aryan-gurung-8743ba187/"><img src="https://img.icons8.com/doodle/48/000000/linkedin-circled.png"/></a>
 <a href="mailto:xohan30@protonmail.com"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
 </p>
- 
- <p align="center">
- # HugsForBugs CTF Team
+
+# HugsForBugs CTF Team 
+<p align="center">
 <img src="https://github.com/xohan30/xohan30/blob/master/h4b.png?raw=true" text-align=center; width="600"; height="600"/>
 </p>
  
