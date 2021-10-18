@@ -6,11 +6,11 @@
 <br>
 
 ## 🚌 I'm a CS engineering student 
-## 🚩 Member of HugsForBugs CTF Team
+## 🚩 I play CTF 
 ### ~> My field of interests are 🔦
 🏮 Information Security
-🏮 Application development
-🏮 Machine Learning
+🏮 Exploit development
+🏮 System development
 🏮 IOT
 ```py
  Its okay to dream big. Even I have a big dream and I am working in steps to accomplish that dream of mine 
