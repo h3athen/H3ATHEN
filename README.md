@@ -16,7 +16,7 @@
         OS  -  Win • Linux
        CTF  -  @SacredShell
       Work  -  Security Analyst
- Languages  -  C/C++, Rust, Python, Java, Go, Asm
+ Languages  -  C/CPP, Rust, Python, Java, Go, Asm
 ```
 
 </div>
@@ -24,7 +24,7 @@
 
    </td>
    <td>
-     <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" alt="cyberpunk aesthetic" width="400" style="border-radius: 18px; margin-left: 32px; box-shadow:0 4px 24px #2225;"/>
+     <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" alt="cyberpunk aesthetic"  style="border-radius: 18px; margin-left: 32px; box-shadow:0 4px 24px #2225;"/>
    </td>
   </tr>
 </table>
